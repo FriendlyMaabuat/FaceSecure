@@ -1,0 +1,182 @@
+            QGroupBox#header{
+                background-color: #212121;
+                border-left:20px solid qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 rgba(156, 177, 182, 0.4), stop:1 rgba(0, 0, 0, 0) );
+
+border-right:20px solid qlineargradient(x1:1, y1:0, x2:0, y2:0, stop:0 rgba(156, 177, 182, 0.4), stop:1 rgba(0, 0, 0, 0) );
+
+border-top:20px solid qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 rgba(156, 177, 182, 0.4), stop:1 rgba(0, 0, 0, 0) );
+
+border-bottom:20px solid qlineargradient(x1:0, y1:1, x2:0, y2:0, stop:0 rgba(156, 177, 182, 0.4), stop:1 rgba(0, 0, 0, 0) );
+
+border-radius: 0.5px;
+padding: 1px;
+margin: 0px;
+spacing: 0px;
+            }
+
+QMessageBox {
+        background-color: #121212;
+        border: 2px solid #4e4e4e;
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+            QMainWindow {
+                background-color: #121212;
+            }
+            QMenuBar {
+                background-color: #212121;
+                color: white;
+            }
+
+            QMenuBar::item {
+                background-color: #212121;
+                padding: 4px 10px;
+                border-radius: 4px;
+            }
+
+            QMenuBar::item:selected {
+                background-color: #4d4d4d;
+            }
+
+            QMenu {
+                background-color: #212121;
+                border: 1px solid #4d4d4d;
+            }
+
+            QMenu::item {
+                padding: 4px 20px;
+            }
+
+            QMenu::item:selected {
+                background-color: #4d4d4d;
+            }
+
+            QLabel {
+                background-color: none;
+                color: white;
+            }
+
+            QPushButton {
+                background: rgba(0,0,0,0);
+                color: white;
+                border: none;
+                font-weight: bold;
+                font-size: 14px;
+            }
+
+            QPushButton:hover {
+                background-color: #4d4d4d;
+            }
+
+            QPushButton:disabled {
+                background-color: #4d4d4d;
+            }
+
+            QTableView {
+                background-color: #212121;
+                color: grey;
+                gridline-color: #4d4d4d;
+                selection-background-color: #00b4ff;
+                selection-color: white;
+            }
+
+            QHeaderView::section {
+                background-color: #121212;
+                color: white;
+                padding: 4px 8px;
+                border: none;
+                border-left: 1px solid #4d4d4d;
+                border-right: 1px solid #4d4d4d;
+                border-bottom: 1px solid #4d4d4d;
+            }
+
+            QHeaderView::section:first {
+                border-left: none;
+            }
+
+            QHeaderView::section:last {
+                border-right: none;
+            }
+
+            QTableCornerButton::section {
+                background-color: #121212;
+                border: none;
+            }
+
+            QScrollBar {
+                background-color: #121212;
+                width: 16px;
+            }
+
+            QScrollBar::handle {
+                background-color: #4d4d4d;
+                border-radius: 8px;
+            }
+
+            QScrollBar::add-page, QScrollBar::sub-page {
+                background-color: #121212;
+            }
+
+            QScrollBar::add-line, QScrollBar::sub-line {
+                border: none;
+                background-color: #212121;
+            }
+
+            QScrollBar:horizontal {
+    border: none;
+    background: #121212;
+    height: 16px;
+}
+
+QScrollBar::handle:horizontal {
+    background: gray;
+    min-width: 20px;
+}
+
+QScrollBar::add-line:horizontal {
+    border: none;
+    background: #121212;
+    width: 16px;
+    subcontrol-position: right;
+    subcontrol-origin: margin;
+}
+
+QScrollBar::sub-line:horizontal {
+    border: none;
+    background: #121212;
+    width: 16px;
+    subcontrol-position: left;
+    subcontrol-origin: margin;
+}
+
+QScrollBar::up-arrow:horizontal, QScrollBar::down-arrow:horizontal {
+    background: none;
+}
+
+QScrollBar::add-page:horizontal, QScrollBar::sub-page:horizontal {
+    background: none;
+}
+
+            QStatusBar {
+                background-color: #212121;
+                color: white;
+            }
+
+            #header{
+                border: none;
+
+            }
+            #buttonLayout{
+                border: none;
+                background-color: #333333;
+            }
+
+#buttonGroupBox{
+        background-color: #111111;
+
+}
+
+#MainWindow::title {
+    background-color: red;
+}

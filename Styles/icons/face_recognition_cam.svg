@@ -1,0 +1,75 @@
+<svg width="60.00000000000001" height="60.00000000000001" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" fill="#000000">
+ <defs>
+  <filter id="svg_2_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_1">
+   <g stroke="null" filter="url(#svg_2_blur)" id="svg_2">
+    <g stroke="null" id="svg_3">
+     <path stroke="#bfbfbf" fill="#BBBBBB" id="svg_4" d="m47.07906,39c0,7.7 -6.3106,14 -14.02355,14l-6.01009,0c-7.71295,0 -14.02355,-6.3 -14.02355,-14l0,-10l-2.00336,0l0,10c0,8.8 7.21211,16 16.02691,16l6.01009,0c8.8148,0 16.02691,-7.2 16.02691,-16l0,-10l-2.00336,0l0,10z"/>
+     <path stroke="#bfbfbf" fill="#BBBBBB" id="svg_5" d="m28.0471,29l0,10c0,0.6 0.40067,1 1.00168,1l4.00673,0l0,-2l-3.00505,0l0,-9l-2.00336,0z"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_6" height="2" width="2.00336" y="19" x="11.0185"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_7" height="2" width="2.00336" y="19" x="15.02523"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_8" height="2" width="2.00336" y="19" x="19.03196"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_9" height="2" width="2.00336" y="19" x="23.03869"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_10" height="2" width="2.00336" y="19" x="27.04542"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_11" height="2" width="2.00336" y="19" x="31.05214"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_12" height="2" width="6.01009" y="19" x="35.05887"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_13" height="2" width="2.00336" y="19" x="43.07233"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_14" height="2" width="2.00336" y="19" x="47.07906"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_15" height="2" width="6.01009" y="15" x="11.0185"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_16" height="2" width="2.00336" y="15" x="19.03196"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_17" height="2" width="6.01009" y="15" x="23.03869"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_18" height="2" width="2.00336" y="15" x="31.05214"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_19" height="2" width="2.00336" y="15" x="35.05887"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_20" height="2" width="2.00336" y="15" x="39.0656"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_21" height="2" width="2.00336" y="15" x="43.07233"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_22" height="2" width="2.00336" y="15" x="47.07906"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_23" height="2" width="2.00336" y="11" x="11.0185"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_24" height="2" width="2.00336" y="11" x="15.02523"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_25" height="2" width="2.00336" y="11" x="19.03196"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_26" height="2" width="2.00336" y="11" x="23.03869"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_27" height="2" width="2.00336" y="11" x="27.04542"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_28" height="2" width="2.00336" y="11" x="31.05214"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_29" height="2" width="2.00336" y="11" x="35.05887"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_30" height="2" width="2.00336" y="11" x="39.0656"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_31" height="2" width="6.01009" y="11" x="43.07233"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_32" height="2" width="2.00336" y="7" x="11.0185"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_33" height="2" width="2.00336" y="7" x="15.02523"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_34" height="2" width="6.01009" y="7" x="19.03196"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_35" height="2" width="2.00336" y="7" x="27.04542"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_36" height="2" width="2.00336" y="7" x="31.05214"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_37" height="2" width="6.01009" y="7" x="35.05887"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_38" height="2" width="2.00336" y="7" x="43.07233"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_39" height="2" width="2.00336" y="7" x="47.07906"/>
+     <polygon stroke="#bfbfbf" fill="#BBBBBB" id="svg_40" points="58.09755849838257,24 2.003364086151123,24 2.003364086151123,21 0,21 0,24 0,26 0,29 2.003364086151123,29 2.003364086151123,26 58.09755849838257,26 58.09755849838257,29 60.10092258453369,29 60.10092258453369,26 60.10092258453369,24 60.10092258453369,21 58.09755849838257,21 "/>
+     <path stroke="#bfbfbf" fill="#BBBBBB" id="svg_41" d="m2.00336,2l3.00505,0l0,-2l-4.00673,0c-0.60101,0 -1.00168,0.4 -1.00168,1l0,4l2.00336,0l0,-3z"/>
+     <path stroke="#bfbfbf" fill="#BBBBBB" id="svg_42" d="m59.09924,0l-4.00673,0l0,2l3.00505,0l0,3l2.00336,0l0,-4c0,-0.6 -0.40067,-1 -1.00168,-1z"/>
+     <path stroke="#bfbfbf" fill="#BBBBBB" id="svg_43" d="m58.09756,58l-3.00505,0l0,2l4.00673,0c0.60101,0 1.00168,-0.4 1.00168,-1l0,-4l-2.00336,0l0,3z"/>
+     <path stroke="#bfbfbf" fill="#BBBBBB" id="svg_44" d="m2.00336,55l-2.00336,0l0,4c0,0.6 0.40067,1 1.00168,1l4.00673,0l0,-2l-3.00505,0l0,-3z"/>
+     <rect stroke="#bfbfbf" fill="#BBBBBB" id="svg_45" height="2" width="6.01009" y="48" x="27.04542"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_46"/>
+   <g stroke="null" id="svg_47"/>
+   <g stroke="null" id="svg_48"/>
+   <g stroke="null" id="svg_49"/>
+   <g stroke="null" id="svg_50"/>
+   <g stroke="null" id="svg_51"/>
+   <g stroke="null" id="svg_52"/>
+   <g stroke="null" id="svg_53"/>
+   <g stroke="null" id="svg_54"/>
+   <g stroke="null" id="svg_55"/>
+   <g stroke="null" id="svg_56"/>
+   <g stroke="null" id="svg_57"/>
+   <g stroke="null" id="svg_58"/>
+   <g stroke="null" id="svg_59"/>
+   <g stroke="null" id="svg_60"/>
+   <path stroke="#bfbfbf" id="svg_61" d="m167.74645,85.91548" opacity="NaN" fill="#BBBBBB"/>
+  </g>
+  <path id="svg_62" d="m45.49295,36.61971" opacity="NaN" stroke="#bfbfbf" fill="#bfbfbf"/>
+ </g>
+</svg>

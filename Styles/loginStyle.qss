@@ -1,0 +1,36 @@
+            QDialog{
+                background-color: #121212;
+            }
+
+            QPushButton {
+                background: #233036;
+                color: white;
+                border: none;
+                padding: 8px 16px;
+                border-radius: 14px;
+                border-style: solid;
+                border-width: 1.5px;
+                border-color: #2b2d42;
+                font-weight: bold;
+                font-size: 14px;
+            }
+
+            QPushButton:hover {
+                background-color: #354f52;
+            }
+
+            QGroupBox{
+                border:none;
+            }
+
+            QLabel{
+                color:white;
+            }
+
+            QLineEdit{
+                background-color: #2b2d42;
+                border-style: solid;
+                border-width: 1.5px;
+                border-color: #8d99ae;
+                color : #edf2f4;
+            }

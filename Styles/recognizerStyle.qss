@@ -1,0 +1,39 @@
+QDialog{
+     background-color: #121212;
+}
+
+QPushButton{
+                border-radius: 25;
+                background-color: #ff5252;
+                border-color: #fdfbfb;
+                color: black;
+            }
+
+#backBtn{
+    background: rgba(0,0,0,0);
+    background-color: rgba(119,119,119,0.3);
+    border-radius: 25;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #808080;
+}
+
+
+
+#backBtn:hover{
+
+    background-color: #4d4d4d;
+}
+
+QPushButton:disabled{
+    background-color: #979aaa;
+}
+
+
+QPushButton:hover{
+                background-color: #ff7b7b;
+            }
+
+#imageLabel{
+                border: 1px solid rgba(0,0,0,0);
+            }

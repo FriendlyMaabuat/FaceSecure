@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MyDialog</class>
+ <widget class="QDialog" name="MyDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1000</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="MinimumExpanding" vsizetype="Expanding">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>500</width>
+    <height>400</height>
+   </size>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <layout class="QVBoxLayout" name="innerLayout">
+     <property name="spacing">
+      <number>0</number>
+     </property>
+     <item>
+      <widget class="QTableView" name="table">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="MinimumExpanding" vsizetype="MinimumExpanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>800</width>
+         <height>700</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">    QTableView {
+                background-color: #212121;
+                color: grey;
+                gridline-color: #4d4d4d;
+                selection-background-color: #00b4ff;
+                selection-color: white;
+            }
+
+            QHeaderView::section {
+                background-color: #121212;
+                color: white;
+                padding: 4px 8px;
+                border: none;
+                border-left: 1px solid #4d4d4d;
+                border-right: 1px solid #4d4d4d;
+                border-bottom: 1px solid #4d4d4d;
+            }
+
+            QHeaderView::section:first {
+                border-left: none;
+            }
+
+            QHeaderView::section:last {
+                border-right: none;
+            }
+
+            QTableCornerButton::section {
+                background-color: #121212;
+                border: none;
+            }
+
+            QScrollBar {
+                background-color: #121212;
+                width: 16px;
+            }
+
+            QScrollBar::handle {
+                background-color: #4d4d4d;
+                border-radius: 8px;
+            }
+
+            QScrollBar::add-page, QScrollBar::sub-page {
+                background-color: #121212;
+            }
+
+            QScrollBar::add-line, QScrollBar::sub-line {
+                border: none;
+                background-color: #212121;
+            }
+
+            QScrollBar:horizontal {
+    border: none;
+    background: #121212;
+    height: 16px;
+}
+
+QScrollBar::handle:horizontal {
+    background: gray;
+    min-width: 20px;
+}
+
+QScrollBar::add-line:horizontal {
+    border: none;
+    background: #121212;
+    width: 16px;
+    subcontrol-position: right;
+    subcontrol-origin: margin;
+}
+
+QScrollBar::sub-line:horizontal {
+    border: none;
+    background: #121212;
+    width: 16px;
+    subcontrol-position: left;
+    subcontrol-origin: margin;
+}
+
+QScrollBar::up-arrow:horizontal, QScrollBar::down-arrow:horizontal {
+    background: none;
+}
+
+QScrollBar::add-page:horizontal, QScrollBar::sub-page:horizontal {
+    background: none;
+}
+</string>
+       </property>
+       <property name="alternatingRowColors">
+        <bool>false</bool>
+       </property>
+       <attribute name="horizontalHeaderVisible">
+        <bool>false</bool>
+       </attribute>
+       <attribute name="horizontalHeaderStretchLastSection">
+        <bool>true</bool>
+       </attribute>
+       <attribute name="verticalHeaderVisible">
+        <bool>false</bool>
+       </attribute>
+       <attribute name="verticalHeaderCascadingSectionResizes">
+        <bool>true</bool>
+       </attribute>
+       <attribute name="verticalHeaderStretchLastSection">
+        <bool>false</bool>
+       </attribute>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

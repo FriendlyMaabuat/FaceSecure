@@ -1,0 +1,2 @@
+Jika file test_apps.exe error, berarti ada instalasi package yang gagal atau juga corrupted. 
+Untuk antisipasi, file test_apps.py di root folder bisa di run secara manual melalui terminal dengan menggunakan command: python test_apps.py
